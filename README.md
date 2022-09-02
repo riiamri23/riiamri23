@@ -35,8 +35,8 @@
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
 <p align="center">
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riiamri23&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
+<!---p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p--->
 
 
 <h2 align="center">
