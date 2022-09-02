@@ -36,7 +36,6 @@ No Bug No Life.
 ```
 
 <!--END_SECTION:waka-->
-<br>
 
 <h1 align="center">
  contact
