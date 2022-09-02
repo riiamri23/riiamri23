@@ -10,9 +10,17 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
  <br><br></h1>
  
-<a href="https://github.com/riiamri23"><img src="https://activity-graph.herokuapp.com/graph?username=riiamri23&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/></a>
+<
+<h1 align="center">
+📊 My Github Stats 📊
+</h1>
  
- 
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riiamri23&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
 <h1 align="center">
  contact
 </h1>
