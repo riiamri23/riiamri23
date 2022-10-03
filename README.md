@@ -47,7 +47,7 @@
 
 ```text
 
-No Bug No Life.
+Take it or leave it.
 
 ```
 
