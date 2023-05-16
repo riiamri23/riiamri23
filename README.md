@@ -45,7 +45,7 @@
 
 ```text
 
-Take it or leave it.
+Mager coy
 
 ```
 
