@@ -52,7 +52,7 @@ Mager coy
 <!--END_SECTION:waka-->
 
 <h1 align="center">
- contact
+ Social Media
 </h1>
 
 <p align="center">
