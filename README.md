@@ -7,9 +7,8 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
  <br><br></h1-->
- <h1 >Hi 👋, I'm Syaeful Amri.
- </h1>
- <p>I’ve no life and I’m a programmer. I've sacrificed my life to learn programming languages to build apps. I can make your dream come true with my power and knowledge.</p>
+ <!--h1 >Hi 👋, I'm Syaeful Amri.
+ </h1-->
  <img src="https://media.tenor.com/_vskzHJCcWwAAAAd/anime-dance.gif" />
  
  
