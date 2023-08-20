@@ -10,6 +10,7 @@
  <h1 >Hi 👋, I'm Syaeful Amri.
  </h1>
  <p>I’ve no life and I’m a programmer. I've sacrificed my life to learn programming languages to build apps. I can make your dream come true with my power and knowledge.</p>
+ <img src="https://tenor.com/view/anime-dance-paripi-gif-25413410" />
  
  
 <br />
