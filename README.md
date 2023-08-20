@@ -9,7 +9,9 @@
  <br><br></h1-->
  <!--h1 >Hi 👋, I'm Syaeful Amri.
  </h1-->
- <img src="https://media.tenor.com/_vskzHJCcWwAAAAd/anime-dance.gif" />
+ <div style="margin: auto;">
+     <img src="https://media.tenor.com/_vskzHJCcWwAAAAd/anime-dance.gif" />
+ </div>
  
  
 <br />
