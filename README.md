@@ -10,7 +10,7 @@
  <h1 >Hi 👋, I'm Syaeful Amri.
  </h1>
  <p>I’ve no life and I’m a programmer. I've sacrificed my life to learn programming languages to build apps. I can make your dream come true with my power and knowledge.</p>
- <div class="tenor-gif-embed" data-postid="25413410" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/anime-dance-paripi-gif-25413410">Anime Dance GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="https://media.tenor.com/_vskzHJCcWwAAAAd/anime-dance.gif" />
  
  
 <br />
