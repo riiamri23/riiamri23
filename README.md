@@ -50,7 +50,7 @@
 
 ```text
 
-Mager coy
+Programming should be fun
 
 ```
 
