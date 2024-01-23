@@ -29,7 +29,6 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="40"/></a>
 
  
