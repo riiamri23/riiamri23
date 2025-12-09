@@ -31,15 +31,14 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"  width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="40"/></a>
 
- 
+ <!---
 <h1 align="center">
 📊 My Github Stats 📊
-</h1>
+</h1> --->
  
 <!---p align="center">
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
 <p align="center" --->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riiamri23" alt="GitHub Streak" /></a>
 <!---p align="center">
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=riiamri23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p--->
 
